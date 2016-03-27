@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
 using Budget.DataAccess;
 
 namespace Budget.Model {
